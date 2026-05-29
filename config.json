@@ -1,0 +1,20 @@
+{
+  "coinValue": 0.05,
+  "vpnRequiredPercentage": 40,
+  "tasks": [
+    {
+      "level": 1,
+      "title": "Quest 1: Watch Origen Launch Trailer",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "duration": 60,
+      "rewardCoins": 1000
+    },
+    {
+      "level": 2,
+      "title": "Quest 2: Learn How to Claim Telebirr Payouts",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "duration": 120,
+      "rewardCoins": 2500
+    }
+  ]
+}
