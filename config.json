@@ -1,6 +1,6 @@
 {
   "coinValue": 0.05,
-  "vpnRequiredPercentage": 40,
+  "vpnRequiredPercentage": 100,
   "tasks": [
     {
       "level": 1,
