@@ -1,7 +1,7 @@
 {
   "coinValue": 0.05,
   "vpnRequiredPercentage": 100,
-  "paymentPaused": true,
+  "paymentPaused": false,
   "tasks": [
     {
       "level": 1,
